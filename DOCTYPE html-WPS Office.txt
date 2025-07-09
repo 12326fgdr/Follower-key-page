@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Lấy Key Sau Khi Follower TikTok</title>
+  <style>
+    body { background-color: #000; color: #fff; font-family: Arial, sans-serif; text-align: center; padding-top: 80px; }
+    .box { background-color: #111; padding: 30px; border-radius: 12px; display: inline-block; box-shadow: 0 0 12px #333; max-width: 500px; }
+    #countdown { font-size: 22px; margin: 15px 0; color: #1DA1F2; }
+    #goBtn { display: none; margin-top: 20px; padding: 10px 25px; font-size: 16px; border: none; border-radius: 8px; background-color: #1DA1F2; color: white; cursor: pointer; transition: background 0.3s; }
+    #goBtn:hover { background-color: #0d8ddb; }
+    #keyBox { display: none; margin-top: 20px; background-color: #222; padding: 15px; border-radius: 10px; border: 1px solid #444; }
+    #key { font-weight: bold; font-size: 20px; color: #00ff99; }
+    a.tiktok-link { color: #ff0050; text-decoration: none; font-weight: bold; }
+    a.tiktok-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h2>🔐 Nhận Key Miễn Phí</h2>
+    <p>⚠️ Vui lòng <a class="tiktok-link" href="https://www.tiktok.com/@thestrongest.3?_t=ZS-8xtbFpAPL85&_r=1" target="_blank">follower TikTok @thestrongest.3</a> để nhận key!</p>
+    <div id="countdown">⏳ Đang kiểm
